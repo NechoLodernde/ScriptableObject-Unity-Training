@@ -1,0 +1,24 @@
+ScriptableObject
+
+In Unity, everything is an object.
+- MonoBehaviour (GameObject) is one type of object
+- ScriptableObject	is data only version, cousin of MonoBehaviour
+
+Pros and Cons
+
+Pros
+- Built into Unity
+- Can be saved as Assets
+- Can Save during Runtime
+- Internal Solution (No files/parsing)
+- Large Amounts of Data
+- Add to Structure as you go
+
+Cons
+- Requires Editor Scripting
+- Can't Edit outside Unity
+- Can't Save once Deployed
+
+ScriptableObject are good for
+- Storing Game Data (Dev)
+- Optimizing Data Loading
