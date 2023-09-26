@@ -22,3 +22,6 @@ Cons
 ScriptableObject are good for
 - Storing Game Data (Dev)
 - Optimizing Data Loading
+
+### Warning ###
+Only use as container for Readonly Data
